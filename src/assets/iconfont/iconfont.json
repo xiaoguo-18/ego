@@ -1,0 +1,30 @@
+{
+  "id": "2566597",
+  "name": "ego",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1010160",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "5127390",
+      "name": "left-indent",
+      "font_class": "left-indent",
+      "unicode": "e7b7",
+      "unicode_decimal": 59319
+    },
+    {
+      "icon_id": "20112731",
+      "name": "bx-left-indent",
+      "font_class": "bx-left-indent",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    }
+  ]
+}
